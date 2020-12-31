@@ -1,0 +1,19 @@
+1.LOGIN
+Enter Full request code instead of cpu-id only
+
+2.ADMIN-GENERATE-ACTIVATION-CODE
+  Generate full activation code instead of cpu-id only
+
+3.ADMIN-SEARCH
+  Search results should be clickable and redirected to the user listview
+
+4.ADMIN-DOWNLOAD-LISTINGS-OF-ACTIVE-MODULES
+  
+   narrow it down into 3 options  only
+    a.Active modules + Clients + Modules 
+    b.users
+    c.module list
+
+5.USER-LISTVIEW
+  1.Show all inactive and active modules
+  2.If user clicks on the send to email all active modules will be sent for that particular user

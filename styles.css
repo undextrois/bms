@@ -1,0 +1,89 @@
+.bms_button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+}
+   #bms_top {
+      font-size: 12px;
+      font-family: verdana;
+      font-weight: bold;
+   }
+
+   #bms_label {
+      font-size: 10px;
+      font-family: verdana;
+      font-weight: bold;
+   }
+
+   #bms_error {
+      font-size: 10px;
+      font-family: verdana;
+      font-weight: bold;
+      color: #800000;
+   }
+
+   #bms_time {
+      font-size: 12px;
+      font-family: verdana;
+      font-weight: normal;
+   }
+
+   #bms_normal {
+      font-size: 10px;
+      font-family: verdana;
+      font-weight: normal;
+   }
+
+   #bms_htab {
+	background-color: #4f81bd;
+	color: #ffffff;
+	font-family: verdana;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	border: thin ridge #CCCCCC;
+   }
+   
+   #bms_col_1 {
+      background-color: #d0d8e8;
+      font-family: verdana;
+      font-size: 10px;
+      font-weight: normal;
+   }
+   #bms_col_2 {
+      background-color: #ffffff;
+      font-family: verdana;
+      font-size: 10px;
+      font-weight: normal;
+   }
+
+   .bms_menu
+   {
+	font-size: 9px;
+	cursor: pointer;
+	cursor: hand;
+	background-color: #CCCCCC;
+	font-family: verdana;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: ridge;
+	border-right-style: ridge;
+	border-bottom-style: ridge;
+	border-left-style: ridge;
+   }
+
+   .bms_header
+   {
+      background-color: #d0d8e8;
+   }
+
+   body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
